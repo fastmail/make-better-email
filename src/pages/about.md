@@ -11,7 +11,7 @@ accumsan tortor posuere ac ut consequat semper. Et molestie ac feugiat
 sed lectus vestibulum mattis ullamcorper. Vel elit scelerisque mauris
 pellentesque pulvinar pellentesque. Fringilla ut morbi tincidunt augue
 interdum. A lacus vestibulum sed arcu non odio euismod lacinia at.
-Nibh sit amet commodo nulla facilisi nullam vehicula ipsum.
+Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. 🕴️
 
 Maecenas pharetra convallis posuere morbi. Suspendisse sed nisi lacus
 sed viverra tellus in hac habitasse. Suspendisse potenti nullam ac
