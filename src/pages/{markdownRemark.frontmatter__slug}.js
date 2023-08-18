@@ -23,7 +23,7 @@ export default function PageTemplate({ data }) {
         </a>
         <br />
         <br />
-        <a href="/">Contact us</a>
+        <a href="mailto:ehlo@makebetter.email">Contact us</a>
       </footer>
     </>
   );
