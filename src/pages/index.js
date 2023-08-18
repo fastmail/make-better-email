@@ -1,4 +1,6 @@
 import * as React from "react";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 const centerButtonStyles = {
   marginTop: "calc(3rem + 26px)",
@@ -9,9 +11,7 @@ const IndexPage = () => {
   return (
     <>
       <main>
-        <h1>
-          makebetter<span className="accent">.email</span>
-        </h1>
+        <Header />
         <div className="date-time-callout">
           October 30 – November 2<br />
           <span className="accent">Philadelphia, Pennsylvania</span>
@@ -31,18 +31,7 @@ const IndexPage = () => {
           </a>
         </div>
       </main>
-      <footer>
-        <a href="https://www.fastmail.com">
-          <img
-            src="https://www.fastmail.com/wp-content/uploads/2022/11/FM-White-RGB.png"
-            width="300"
-            alt="Fastmail"
-          />
-        </a>
-        <br />
-        <br />
-        <a href="mailto:ehlo@makebetter.email">Contact us</a>
-      </footer>
+      <Footer />
     </>
   );
 };

@@ -1,5 +1,7 @@
 import * as React from "react";
 import { graphql } from "gatsby";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 export default function PageTemplate({ data }) {
   const { markdownRemark } = data;
@@ -7,24 +9,15 @@ export default function PageTemplate({ data }) {
   return (
     <>
       <main>
-        <h1>
-          makebetter<span className="accent">.email</span>
-        </h1>
+        <Header />
         <div className="info" dangerouslySetInnerHTML={{ __html: html }} />
-        <div className="info"><a href="/" className="about-link">← Back</a></div>
+        <div className="info">
+          <a href="/" className="about-link">
+            ← Back
+          </a>
+        </div>
       </main>
-      <footer>
-        <a href="https://www.fastmail.com">
-          <img
-            src="https://www.fastmail.com/wp-content/uploads/2022/11/FM-White-RGB.png"
-            width="300"
-            alt="Fastmail"
-          />
-        </a>
-        <br />
-        <br />
-        <a href="mailto:ehlo@makebetter.email">Contact us</a>
-      </footer>
+      <Footer />
     </>
   );
 }
