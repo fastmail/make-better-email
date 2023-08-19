@@ -5,7 +5,7 @@ slug: "/about"
 Hi, we're Fastmail!
 
 We provide email service to people and organizations, and we use open software
-and open standards to do it.  We believe that part of what had made the email
+and open standards to do it.  We believe that part of what has made the email
 ecosystem successful and interesting is its standards-based architecture.
 We’re deeply invested in open source and open standards, and we spend a lot of
 our time each year working on improving the state of email and the open
