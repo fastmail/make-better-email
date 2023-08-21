@@ -33,6 +33,9 @@ jobs:
       - name: Copy CNAME
         run: cp CNAME public/CNAME
 
+      - name: Copy favicon
+        run: cp src/images/favicon.ico public/favicon.ico
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

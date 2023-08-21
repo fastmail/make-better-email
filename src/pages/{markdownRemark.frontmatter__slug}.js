@@ -22,12 +22,19 @@ export default function PageTemplate({ data }) {
   );
 }
 
+export const Head = ({ data }) => {
+  const { markdownRemark } = data;
+  const { frontmatter } = markdownRemark;
+  return <title>makebetter.email — {frontmatter.title}</title>;
+};
+
 export const pageQuery = graphql`
   query ($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         slug
+        title
       }
     }
   }

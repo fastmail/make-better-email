@@ -1,5 +1,6 @@
 ---
 slug: "/attend"
+title: "Attend"
 ---
 
 So you want to attend Make Better Email 2023?  Great!

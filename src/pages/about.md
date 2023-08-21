@@ -1,5 +1,6 @@
 ---
 slug: "/about"
+title: "About"
 ---
 
 Hi, we're Fastmail!
