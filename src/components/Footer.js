@@ -5,7 +5,7 @@ export default () => (
     <a href="https://www.fastmail.com">
       <img
         src="https://www.fastmail.com/wp-content/uploads/2022/11/FM-White-RGB.png"
-        width="300"
+        width="200"
         alt="Fastmail"
       />
     </a>
