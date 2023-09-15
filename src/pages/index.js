@@ -2,11 +2,6 @@ import * as React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-const centerButtonStyles = {
-  marginTop: "calc(3rem + 26px)",
-  marginBottom: 26,
-};
-
 const IndexPage = () => {
   return (
     <>
@@ -25,7 +20,7 @@ const IndexPage = () => {
             Learn more →
           </a>
         </p>
-        <div style={centerButtonStyles}>
+        <div>
           <a className="button" href="/attend">
             Information for attendees
           </a>

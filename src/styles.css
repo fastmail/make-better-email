@@ -75,6 +75,8 @@ hr {
   font-weight: 200;
   font-family: "Anaheim", sans-serif;
   text-decoration: none;
+  display: block;
+  max-width: max-content;
 }
 
 footer {
