@@ -8,7 +8,7 @@ const IndexPage = () => {
       <main>
         <Header />
         <div className="date-time-callout">
-          October 30 – November 2<br />
+          October 30 – November 2 2023<br />
           <span className="accent">Philadelphia, Pennsylvania</span>
         </div>
         <hr />
