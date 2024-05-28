@@ -8,12 +8,12 @@ const IndexPage = () => {
       <main>
         <Header />
         <div className="date-time-callout">
-          October 30 – November 2 2023<br />
-          <span className="accent">Philadelphia, Pennsylvania</span>
+          October 30 – November 1, 2024<br />
+          <span className="accent">London, England</span>
         </div>
         <hr />
         <p className="info">
-          This year, we’re pursuing our mission to make email better by hosting
+          We’re pursuing our mission to make email better by organizing
           makebetter<span className="accent">.email</span>, a meeting of some of
           the most notable email clients and servers.{" "}
           <a href="/about" className="about-link">

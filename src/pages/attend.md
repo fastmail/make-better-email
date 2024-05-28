@@ -3,7 +3,7 @@ slug: "/attend"
 title: "Attend"
 ---
 
-So you want to attend Make Better Email 2023?  Great!
+So you want to attend Make Better Email 2024?  Great!
 
 First off, this event is by invitation only.  If you didn't get an invitation,
 and you think you should have gotten one, you should [contact
@@ -14,8 +14,8 @@ time!)
 If you have an invitation, it will say what you need to do:
 
 * register at the event registration page
-* book your travel and hotel for Philadelphia (be here October 30th through
-  November 2nd!)
+* book your travel and hotel for London (be here October 30th through
+  November 1st!)
 * write in with things you'd like to get on the agenda
 
 We'd like to keep things small.  That means just one or two people per client

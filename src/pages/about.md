@@ -20,9 +20,9 @@ many of us can get together in one place and talk about what we can agree would
 be the best steps to make email better.  There isn’t, yet, a carved-in-stone
 agenda, but here’s what we expect we’ll be doing:
 
-**When**: October 30th - November 2nd, all day
+**When**: October 30th - November 1st, all day
 
-**Where**: Philadelphia, PA
+**Where**: London, England
 
 **What**: We’ll talk about…
 
