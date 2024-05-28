@@ -13,7 +13,7 @@ const IndexPage = () => {
         </div>
         <hr />
         <p className="info">
-          We’re pursuing our mission to make email better by hosting
+          We’re pursuing our mission to make email better by organizing
           makebetter<span className="accent">.email</span>, a meeting of some of
           the most notable email clients and servers.{" "}
           <a href="/about" className="about-link">
