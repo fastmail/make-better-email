@@ -15,7 +15,8 @@ const IndexPage = () => {
         <p className="info">
           We’re pursuing our mission to make email better by organizing
           makebetter<span className="accent">.email</span>, a meeting of some of
-          the most notable email clients and servers.{" "}
+          the most notable email clients and servers. This year, we're hosted
+          by <a href="https://www.isode.com/">Isode</a>.{" "}
           <a href="/about" className="about-link">
             Learn more →
           </a>
