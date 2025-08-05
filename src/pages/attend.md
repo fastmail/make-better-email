@@ -3,7 +3,7 @@ slug: "/attend"
 title: "Attend"
 ---
 
-So you want to attend Make Better Email 2024?  Great!
+So you want to attend Make Better Email 2025?  Great!
 
 First off, this event is by invitation only.  If you didn't get an invitation,
 and you think you should have gotten one, you should [contact
@@ -14,8 +14,9 @@ time!)
 If you have an invitation, it will say what you need to do:
 
 * register at the event registration page
-* book your travel and hotel for London (be here October 30th through
-  November 1st!)
+* book your travel and hotel for Montreal (Be here November 9th through
+  November 11th!  This is right after [IETF
+  124](https://www.ietf.org/meeting/124/))
 * write in with things you'd like to get on the agenda
 
 We'd like to keep things small.  That means just one or two people per client

@@ -8,15 +8,15 @@ const IndexPage = () => {
       <main>
         <Header />
         <div className="date-time-callout">
-          October 30 – November 1, 2024<br />
-          <span className="accent">London, England</span>
+          November 9 – November 11, 2025<br />
+          <span className="accent">Montreal, Canada</span>
         </div>
         <hr />
         <p className="info">
           We’re pursuing our mission to make email better by organizing
           makebetter<span className="accent">.email</span>, a meeting of some of
-          the most notable email clients and servers. This year, we're hosted
-          by <a href="https://www.isode.com/">Isode</a>.{" "}
+          the most notable email clients and servers. This year, we'll be in
+          Canada.{" "}
           <a href="/about" className="about-link">
             Learn more →
           </a>

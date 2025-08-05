@@ -20,22 +20,23 @@ many of us can get together in one place and talk about what we can agree would
 be the best steps to make email better.  There isn’t, yet, a carved-in-stone
 agenda, but here’s what we expect we’ll be doing:
 
-**When**: October 30th - November 1st, all day
+**When**: November 9th - November 11th, all day
 
-**Where**: London, England
+**Where**: Montreal, Canada
 
 **What**: We’ll talk about…
 
+* standardizing autoconfiguration and authentication across clients and
+  protocols
+* practical problems related to interoperability and user confusion that can be
+  addressed by changing how we work
 * what features (especially those already standardized) would give users a
   faster, more reliable experience if widely implemented
 * what features would reduce network traffic, round trips, and other server
   cost if widely implemented
-* what features are *not* yet standardized, but seem like the next thing
-  everybody wants in their client — and how we can prioritize standardizing
-  them
+* the wins of JMAP, in quantitative terms
 * how to begin leveraging JMAP without having to totally rewrite IMAP code,
   especially for server-pushed change notifications
-* how to prepare for more widespread transition to OAuth and JMAP
 
 We’ve got a list of RFCs and draft standards that we think make good talking
 points to start, but we'd also love to hear from you in advance about what you
