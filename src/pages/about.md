@@ -44,4 +44,4 @@ think are concrete improvements we could make.
 
 If you want to attend, you can find more at the “[so you want to
 attend](/attend/)” page.  If you want more information, just
-[email](ehlo@makebetter.email) and ask!
+[email](mailto:ehlo@makebetter.email) and ask!
