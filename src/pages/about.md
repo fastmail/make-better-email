@@ -20,7 +20,7 @@ many of us can get together in one place and talk about what we can agree would
 be the best steps to make email better.  There isn’t, yet, a carved-in-stone
 agenda, but here’s what we expect we’ll be doing:
 
-**When**: November 9th - November 11th, all day
+**When**: November 10th - November 12th, all day
 
 **Where**: Montreal, Canada
 

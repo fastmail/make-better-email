@@ -8,7 +8,7 @@ const IndexPage = () => {
       <main>
         <Header />
         <div className="date-time-callout">
-          November 9 – November 11, 2025<br />
+          November 10 – November 12, 2025<br />
           <span className="accent">Montreal, Canada</span>
         </div>
         <hr />

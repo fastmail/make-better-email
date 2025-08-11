@@ -14,8 +14,8 @@ this time!)
 If you have an invitation, it will say what you need to do:
 
 * register at the event registration page
-* book your travel and hotel for Montreal (Be here November 9th through
-  November 11th!  This is right after [IETF
+* book your travel and hotel for Montreal (Be here November 10th through
+  November 12th!  This is right after [IETF
   124](https://www.ietf.org/meeting/124/))
 * write in with things you'd like to get on the agenda
 
