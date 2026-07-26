@@ -20,9 +20,9 @@ many of us can get together in one place and talk about what we can agree would
 be the best steps to make email better.  There isn’t, yet, a carved-in-stone
 agenda, but here’s what we expect we’ll be doing:
 
-**When**: Some time in 2026
+**When**: November 11 – November 13, 2026
 
-**Where**: To be determined!
+**Where**: San Francisco, CA
 
 **What**: We’ll talk about…
 

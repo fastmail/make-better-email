@@ -11,15 +11,13 @@ us](mailto:ehlo@makebetter.email) and ask!  Tell us what service or software
 you work on.  (Remember, we're [focusing on IMAP clients and servers](/about),
 this time!)
 
-<!--
 If you have an invitation, it will say what you need to do:
 
 * register at the event registration page
-* book your travel and hotel for Montreal (Be here November 10th through
-  November 12th!  This is right after [IETF
-  124](https://www.ietf.org/meeting/124/))
+* book your travel and hotel for the venue (Be here November 11th through
+  November 13th!  This is right before [IETF
+  127](https://www.ietf.org/meeting/127/))
 * write in with things you'd like to get on the agenda
--->
 
 We'd like to keep things small.  That means just one or two people per client
 or server.  We're not planning on remote attendees by video conference right
