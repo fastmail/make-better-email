@@ -8,8 +8,8 @@ So you want to attend Make Better Email 2026?  Great!
 First off, this event is by invitation only.  If you didn't get an invitation,
 and you think you should have gotten one, you should [contact
 us](mailto:ehlo@makebetter.email) and ask!  Tell us what service or software
-you work on.  (Remember, we're [focusing on IMAP clients and servers](/about),
-this time!)
+you work on.  (Remember, we're [focusing on IMAP and JMAP clients and
+servers](/about), this time!)
 
 If you have an invitation, it will say what you need to do:
 

@@ -11,14 +11,14 @@ ecosystem successful and interesting is its standards-based architecture.
 We’re deeply invested in open source and open standards, and we spend a lot of
 our time each year working on improving the state of email and the open
 internet.  This year, we’re hosting a get-together of people who make
-significant contributions to the email ecosystem, especially IMAP clients and
-servers.
+significant contributions to the email ecosystem, especially IMAP or JMAP
+clients and servers.
 
-If you maintain a significant piece of the IMAP world, like a major server or
-client, you might have something to get out of this work.  Our hope is that
-many of us can get together in one place and talk about what we can agree would
-be the best steps to make email better.  There isn’t, yet, a carved-in-stone
-agenda, but here’s what we expect we’ll be doing:
+If you maintain a significant piece of the IMAP or JMAP world, like a major
+server or client, you might have something to get out of this work.  Our hope
+is that many of us can get together in one place and talk about what we can
+agree would be the best steps to make email better.  There isn’t, yet, a
+carved-in-stone agenda, but here’s what we expect we’ll be doing:
 
 **When**: November 11 – November 13, 2026
 
