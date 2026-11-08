@@ -1,6 +1,7 @@
 import * as React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import SiteMeta from "../components/SiteMeta";
 
 const IndexPage = () => {
   return (
@@ -33,4 +34,6 @@ const IndexPage = () => {
 
 export default IndexPage;
 
-export const Head = () => <title>makebetter.email</title>;
+export const Head = ({ location }) => (
+  <SiteMeta title="makebetter.email" pathname={location.pathname} />
+);

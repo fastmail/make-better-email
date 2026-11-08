@@ -2,6 +2,7 @@ import * as React from "react";
 import { graphql } from "gatsby";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import SiteMeta from "../components/SiteMeta";
 
 export default function PageTemplate({ data }) {
   const { markdownRemark } = data;
@@ -22,10 +23,15 @@ export default function PageTemplate({ data }) {
   );
 }
 
-export const Head = ({ data }) => {
+export const Head = ({ data, location }) => {
   const { markdownRemark } = data;
   const { frontmatter } = markdownRemark;
-  return <title>makebetter.email — {frontmatter.title}</title>;
+  return (
+    <SiteMeta
+      title={`makebetter.email — ${frontmatter.title}`}
+      pathname={location.pathname}
+    />
+  );
 };
 
 export const pageQuery = graphql`
